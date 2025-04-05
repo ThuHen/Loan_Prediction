@@ -40,6 +40,6 @@ Thumbs.db
 .env.*
 
 # Model & Data artifacts
-model.pkl
-scaler.pkl
-*.csv
+#model.pkl
+#scaler.pkl
+
