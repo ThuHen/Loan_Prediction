@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# MacOS / Windows / Linux hidden files
+.DS_Store
+Thumbs.db
+
+# Python test/cache/log
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Streamlit cache
+.streamlit/
+
+# Environment / secret files
+*.env
+.env.*
+
+# Model & Data artifacts
+model.pkl
+scaler.pkl
+*.csv
